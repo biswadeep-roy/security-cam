@@ -47,7 +47,7 @@ winsound
 
 Clone this repository:
 
-`git clone https://github.com/yourusername/security-camera.git`
+`git clone https://github.com/biswadeep-roy/security-cam.git`
 
 Install the required dependencies:
 
