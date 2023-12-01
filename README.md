@@ -4,6 +4,9 @@
 This Python application uses PyQt5 and OpenCV to create a simple security camera system that monitors your webcam's feed. It detects motion in the camera's field of view and saves images when significant motion is detected.
 <br/>
 <br/>
+
+![Screenshot 2023-12-01 113159](https://github.com/biswadeep-roy/security-cam/assets/74821633/e24aa55d-16e4-47c7-9056-9543f944a9ca)
+
 ***Features***
 Motion Detection: The application continuously captures frames from the webcam and detects motion using image differencing and contour analysis.
 
